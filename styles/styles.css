@@ -1,0 +1,62 @@
+body {
+    overflow-x: hidden;
+}
+
+header {
+    background-image: url(/img/unnamed.png); 
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-attachment: fixed;
+}
+
+h1 {
+    font-weight: 900;
+}
+
+.hero-section h2 {
+    font-size: 5rem;
+}
+
+.hero-section p {
+    font-size: 2rem;
+}
+
+.contact-button button {
+    width: 25rem; 
+    height: 5rem; 
+    border-radius: 30px;
+}
+
+.contact-button i {
+    font-size: 1.5rem; 
+    font-weight: 700;
+}
+
+.contact-button span {
+    font-weight: 700; 
+    font-size: 1.5rem
+}
+
+main {
+    background-color: #FFFFFF
+}
+
+.session-info {
+    border-radius: 30px;
+}
+
+.session-info div {
+    width: 50px; 
+    height: 50px; 
+    font-size: 2rem;
+}
+
+.session-info h3 {
+    font-size: 1.5rem; 
+    font-weight: 700;
+}
+
+.session-info p {
+    font-size: 1.2rem;
+}
